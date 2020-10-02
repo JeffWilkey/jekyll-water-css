@@ -1,2 +1,12 @@
 title: Water.css
 water_theme: water
+collections:
+  posts:
+    title: Posts
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

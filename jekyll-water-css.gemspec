@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-water-css"
-  spec.version       = "0.1.0"
+  spec.version       = "0.2.0"
   spec.authors       = ["Jeff Wilkey"]
   spec.email         = ["contact@jeffwilkey.com"]
 
